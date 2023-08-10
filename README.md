@@ -8,6 +8,9 @@ Su-Schrieffer-Heeger Hamiltonian with alternating shift of the chains.
 It is demonstrated that the slow group velocities of the localized flat band states are sensitively controlled by the distance between 
 the boundaries and the propagation can be guided through designed paths of these boundaries. 
 
+
 Code used for papers:
+
 PHYSICAL REVIEW B 99, 041117(R) (2019)
+
 PHYSICAL REVIEW LETTERS 125, 225501 (2020)
